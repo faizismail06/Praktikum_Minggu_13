@@ -1,0 +1,8 @@
+setup.py
+Praktikum_Minggu_13.egg-info/PKG-INFO
+Praktikum_Minggu_13.egg-info/SOURCES.txt
+Praktikum_Minggu_13.egg-info/dependency_links.txt
+Praktikum_Minggu_13.egg-info/top_level.txt
+praktikum_minggu_13/__init__.py
+praktikum_minggu_13/guess_number.py
+praktikum_minggu_13/weight_conversion.py
